@@ -22,8 +22,8 @@ class Usuario {
     }
 }
 
-let usuario1 = new Usuario("Alejandro","Naranjo");
-let usuario2 = new Usuario("Nicolas","Pinzon");
+let usuario1 = new Usuario("Nicolas","Pinzon");
+let usuario2 = new Usuario("Alejandro","Pinzon");
 
 usuario1.datos();
 usuario1.tieneMascota("Perro");
